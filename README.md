@@ -87,19 +87,20 @@ plt.title("Customer Segmets")
 ### data.info():
 ![Screenshot from 2023-10-30 23-34-07](https://github.com/Dhanudhanaraj/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119218812/aae5f707-ea79-4811-bb21-be41ff1784bd)
 
-### data.isnull().sum():
+### Null Values:
 ![Screenshot from 2023-10-30 23-34-18](https://github.com/Dhanudhanaraj/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119218812/1b909cd6-f6be-4efc-b998-137bfb41c9c8)
 
-### Elbow method:
+### Elbow Graph:
 ![Screenshot from 2023-10-30 23-34-32](https://github.com/Dhanudhanaraj/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119218812/4ec044b3-4f84-4db4-b955-a9543e586b9c)
 
-### K-Means:
-![Screenshot from 2023-10-30 23-35-01](https://github.com/Dhanudhanaraj/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119218812/79b094c0-7cf9-4d93-b1ae-c41784172d8e)
+### K-Means Cluster Formation:
+![Screenshot from 2023-10-30 23-48-11](https://github.com/Dhanudhanaraj/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119218812/653c9ca1-e9c3-4b64-a6e1-62332edda410)
 
-### Array value of Y:
+
+###   Predicted Value:
 ![Screenshot from 2023-10-30 23-35-24](https://github.com/Dhanudhanaraj/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119218812/d114a782-8e4a-4ffa-8260-35a2cfcc87e5)
 
-### Customer Segmentation:
+### Final Graph:
 ![Screenshot from 2023-10-30 23-35-39](https://github.com/Dhanudhanaraj/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119218812/5306741b-0524-4b61-bc19-759830c1b33d)
 
 
